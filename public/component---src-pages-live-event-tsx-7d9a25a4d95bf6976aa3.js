@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{GKYH:function(e,n,t){"use strict";t.r(n);t("OG14");var a=t("q1tI"),c=t.n(a),o=t("Ng2+"),r=function(e){var n=e.eventId;return c.a.createElement("p",null,"welcome ",n)};n.default=function(e){console.log(e.location);var n=new URLSearchParams(location.search);return c.a.createElement(o.a,null,c.a.createElement(r,{eventId:n.get("code")}))}}}]);
+//# sourceMappingURL=component---src-pages-live-event-tsx-7d9a25a4d95bf6976aa3.js.map

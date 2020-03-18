@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{vPIX:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),u=t("Ng2+"),c=t("1Yd/"),r=function(){return l.a.createElement("div",null,l.a.createElement("p",null,"link "),l.a.createElement("p",null,"code "))};n.default=function(){return l.a.createElement(u.a,null,l.a.createElement(c.a,{title:"Question page"}),l.a.createElement(r,null))}}}]);
+//# sourceMappingURL=component---src-pages-room-dashboard-tsx-5901636688824322affe.js.map
